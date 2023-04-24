@@ -1,2 +1,2 @@
 # MCDA_FS
-Multi Criteria Decision Aid - Free Software
+Multi Criteria Decision Analysis - Free Software
