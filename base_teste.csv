@@ -1,0 +1,10 @@
+Modelo,Mem�ria RAM,Armazenamento,Tamanho de tela,Bateria mAh,Cor
+,0.3,0.2,0.1,0.3,0.1
+,number,number,number,number,string
+BOM,8,960,14,5000,Prata
+NEUTRO,4,120,14,3000,Preto
+Acer,2,960,14,4000,Preto
+Lenovo,4,480,15,3000,Prata
+DELL,6,480,15,3000,Vermelho
+Samsung,8,240,14,4000,Azul
+Positivo,16,120,16,5000,Verde
