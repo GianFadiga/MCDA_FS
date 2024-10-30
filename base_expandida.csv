@@ -1,0 +1,71 @@
+Modelo,Memória RAM,Armazenamento,Tamanho de tela,Bateria mAh,Cor
+,0.3,0.2,0.1,0.3,0.1
+number,number,number,number,string,
+BOM,8,960,14,5000,Prata
+NEUTRO,4,120,14,3000,Preto
+Acer,2,960,14,4000,Preto
+Lenovo,4,480,15,3000,Prata
+DELL,6,480,15,3000,Vermelho
+Samsung,8,240,14,4000,Azul
+Positivo,16,120,16,5000,Verde
+Asus,8,960,17,4500,Preto
+Toshiba,4,240,13,3500,Branco
+Sony,6,500,15,3200,Prata
+Apple,8,512,13,4100,Cinza
+Microsoft,16,256,12,4500,Preto
+Alienware,32,1000,18,6000,Prata
+Vaio,4,200,14,2800,Branco
+HP,6,640,13,3300,Azul
+LG,8,120,15,3000,Vermelho
+Quantum,2,80,10,2500,Verde
+Dynabook,4,320,11,2700,Prata
+Philco,3,256,13,3100,Preto
+Multilaser,8,64,12,2900,Azul
+Gateway,6,160,11,2800,Branco
+Razer,16,1000,15,5000,Preto
+Huawei,8,512,14,4500,Cinza
+MSI,12,750,17,5500,Prata
+HyperX,8,480,16,3600,Preto
+Aorus,32,2048,18,6200,Azul
+Xiaomi,6,128,13,3000,Branco
+Avell,16,512,16,4000,Vermelho
+Shuttle,8,320,15,3500,Verde
+Panasonic,4,120,12,2700,Preto
+Fujitsu,8,640,14,3800,Prata
+Medion,3,500,11,2900,Azul
+TCL,2,80,10,2500,Branco
+Eurocom,64,4096,20,8000,Preto
+Sager,16,1024,19,7000,Prata
+Chuwi,4,256,14,3000,Cinza
+Acer Aspire,6,240,13,3100,Preto
+Dell Inspiron,12,750,15,3300,Azul
+HP Envy,8,512,17,4500,Prata
+ASUS VivoBook,16,1000,15,5000,Preto
+Lenovo IdeaPad,8,320,14,3000,Branco
+Sony Vaio,4,120,14,2800,Prata
+LG Gram,8,640,14,3800,Cinza
+Huawei MateBook,16,256,13,3900,Preto
+MacBook Air,8,256,13,3500,Prata
+Microsoft Surface,16,512,12,4500,Azul
+Samsung Galaxy,6,128,13,3000,Verde
+Lenovo ThinkPad,12,500,15,4700,Preto
+Dynabook Tecra,8,128,14,3200,Branco
+Positivo Motion,4,320,14,2800,Vermelho
+Philips,4,128,11,2700,Prata
+Acer Nitro,16,1024,17,6200,Preto
+Alienware M15,32,2048,15,6500,Cinza
+Dell Latitude,8,512,13,4000,Azul
+MSI Prestige,12,750,15,5500,Prata
+HP Pavilion,6,640,16,4300,Preto
+Asus ROG,32,2048,18,7000,Verde
+Xiaomi Mi,6,128,14,3100,Cinza
+Aorus Pro,16,1024,15,6000,Preto
+Clevo,64,4096,21,9000,Branco
+Panasonic Toughbook,8,320,13,5000,Azul
+Toshiba Satellite,4,240,13,2900,Preto
+Gateway Ultra,3,256,12,2800,Vermelho
+Avell Titanium,16,2048,18,7200,Prata
+Shuttle X,4,512,12,2700,Branco
+Fujitsu LifeBook,6,320,13,3400,Preto
+Acer Swift,8,256,14,3500,Azul
+Asus ZenBook,16,512,14,4500,Verde
